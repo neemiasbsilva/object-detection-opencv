@@ -5,7 +5,10 @@ This repository was created to show some methods of cumputer vision.
 Below following the name of techniques:
 
 <ul>
-  <li> 
+  <li> Watershed Algorithm;
+   <li> Edge Detection;
+     <li> Feature Matching;
+       <li> ...
 </ul>
 
 
